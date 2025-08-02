@@ -21,7 +21,7 @@
 <h3>フロントエンド</h3>
 HTML/CSS
 <h3>バックエンド</h3>
-Python, MySQL, Java, C#
+Python, MySQL, Java, C#, R
 <h3>その他使用</h3>
 GitHub, Slack, VScode, google colaboratory
 <h2>作品について</h2>
