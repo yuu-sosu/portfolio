@@ -29,7 +29,7 @@ GitHub, Slack, VScode, google colaboratory, GA4, PowerBI
 
 <h2>作品について</h2>
 <h3>nishikaのコンペ「生鮮野菜の価格予測2024冬」</h3>
-<p>vegetable_model.ipynb</p>
+<p>アップデートしたファイルのvegetable_model.ipynb</p>
 <h4>コンペ概要</h4>
 <p>大田市場にて相対取引される生鮮野菜の卸売価格を、気象庁の天気データをもとに予測する。</p>
 <h4>アプローチ理由</h4>
