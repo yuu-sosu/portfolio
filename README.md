@@ -23,7 +23,7 @@ HTML/CSS
 <h3>バックエンド</h3>
 Python, MySQL, Java, C#, R
 <h3>その他使用</h3>
-GitHub, Slack, VScode, google colaboratory
+GitHub, Slack, VScode, google colaboratory, GA4, PowerBI
 <h2>作品について</h2>
 
 <h2>今後のキャリアプラン</h2>
