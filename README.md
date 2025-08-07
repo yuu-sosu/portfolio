@@ -51,6 +51,6 @@ GitHub, Slack, VScode, google colaboratory, GA4, PowerBI
 <h3>step1</h3>
 <p>AIを含めたITの知識や実務経験をもっと積む！</p>
 <h3>step2</h3>
-<p>起業して様々なアプリケーションを開発！！</p>
+<p>様々なアプリケーションを開発！！</p>
 <h3>step3</h3>
 <p>社会に大きなインパクトを与える！！！</p>
