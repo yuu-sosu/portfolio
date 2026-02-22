@@ -1,23 +1,23 @@
 # ゆう / yuu
 
 東京在住｜データエンジニア志望  
-AI活用に必要な「使えるデータ」を整備して提供する仕事に興味があります。（増分処理・再実行耐性・データ品質を重視）
+AI活用に必要な「使えるデータ」を整備して提供する仕事に興味があります。
 
 ## プロジェクト（まずここを見てください）
 - **Data Pipeline + API（個人開発）**  
-  外部データ → ETL（バッチ/増分）→ DB → API  
+  自作CSVデータ → ETL→ DB → API  
   https://github.com/yuu-sosu/<repo>
 
-## 取り組んでいること
-- ETL設計（増分処理 / idempotent）
-- DB設計（スキーマ / インデックス / クエリ改善）
-- データ品質（欠損・重複・型・範囲のチェック）
-- 再現性（Docker）とCI（GitHub Actionsでlint/test）
+## このプロジェクトでできること
+- CSV → DBの取り込み（ETL）
+- 再実行しても重複しない投入（source_id + UPSERT）
+- APIで期間指定して取得（read-only）
+- docker composeでローカル再現、READMEで再現手順を提供
 
 ## 技術スタック
-Python / SQL / PostgreSQL / MySQL  
+Python / SQL / PostgreSQL
 Docker / GitHub Actions / Git / VS Code  
-Power BI / GA4 / Google Sheets（運用手順の整理）
+Google Sheets
 
 ## 経験（長期インターン）
 - ETL/API開発：増分処理・再実行耐性・品質チェックを前提にした設計
