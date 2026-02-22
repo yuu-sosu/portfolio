@@ -15,7 +15,7 @@ AI活用に必要な「使えるデータ」を整備して提供する仕事に
 - docker composeでローカル再現、READMEで再現手順を提供
 
 ## 技術スタック
-Python / SQL / PostgreSQL
+Python / SQL / PostgreSQL  
 Docker / GitHub Actions / Git / VS Code  
 Google Sheets
 
