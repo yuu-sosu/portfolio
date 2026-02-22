@@ -6,7 +6,7 @@ AI活用に必要な「使えるデータ」を整備して提供する仕事に
 ## プロジェクト（まずここを見てください）
 - **Data Pipeline + API（個人開発）**  
   自作CSVデータ → ETL→ DB → API  
-  https://github.com/yuu-sosu/<repo>
+  https://github.com/yuu-sosu/ETLpipeline
 
 ## このプロジェクトでできること
 - CSV → DBの取り込み（ETL）
