@@ -1,37 +1,28 @@
-<h1>自己紹介</h1>
+# ゆう / yuu
 
-<h2>作成者について</h2>
-<p>名前：ゆう</p>
-<p>在住：東京</p>
-<p>資格：G検定、運転免許（AT限定）、秘書検定2級、英検３級</p>
-<p>略歴：名古屋大学工学部休学中</p>
-<h3>プログラミング経歴</h3>
-<p>
-スタートは大学受験期の現実逃避Progate<br>
-その後大学時代に様々な学習や経験(時系列)
-</p>
-<p>
-・Webページのチーム開発と管理<br>
-・大学の授業にてPython学習<br>
-・CADの会社にてインターンをしC#習得<br>
-・機械学習にハマりG検定取得<br>
-・Progateに課金してJava学習<br>
-・プログラミング教室にてUdemy動画視聴し色々学習（下記参照）<br>
-・42TokyoにてC言語やコンピュータについて学習中
-</p>
+東京在住。データエンジニアを志望して、ETL・データモデリング・API提供まで一気通貫で作れる状態を目指しています。
 
-<h2>現在のスキル</h2>
-<h3>フロントエンド</h3>
-HTML/CSS
-<h3>バックエンド</h3>
-Python, C, MySQL, Java, C#, R
-<h3>その他使用</h3>
-GitHub, Docker, Slack, VScode, google colaboratory, GA4, PowerBI
+## Focus（やっていること）
+- Python/SQLでのデータ収集・整形・ロード（バッチ/増分処理）
+- PostgreSQL/MySQLでのスキーマ設計・パフォーマンス改善
+- Dockerでのローカル再現環境 + CIでの自動テスト
 
-<h2>今後のキャリアプラン</h2>
-<h3>step1</h3>
-<p>AIを含めたITの知識や実務経験をもっと積む！</p>
-<h3>step2</h3>
-<p>様々なアプリケーションを開発！！</p>
-<h3>step3</h3>
-<p>社会に大きなインパクトを与える！！！</p>
+## Featured Projects（代表作）
+- **ETL Pipeline**：外部データ → DWH → API/BI まで（Docker/テスト/品質チェック）  
+
+## Tech Stack
+**Data / Backend**: Python, SQL, PostgreSQL, MySQL  
+**Infra / Tools**: Docker, GitHub Actions, Git  
+**BI / Analytics**: Power BI, GA4  
+**Learning**: C（42Tokyo）, C#, Java, R
+
+## Background
+- 名古屋大学 工学部 休学中
+- 42TokyoでC言語/コンピュータサイエンスを学習中
+- G検定取得（機械学習の基礎理解）
+
+## Links
+- GitHub: https://github.com/yuu-sosu
+
+---
+**興味領域**: データ基盤、データ品質、データモデリング
